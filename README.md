@@ -99,144 +99,284 @@ If you would like to contribute to this project, please open a new issue or send
 ## LANGUAGES CODES FOR "MULTILANG" VERSION
 
 af         Afrikaans                      Afrikaans
+
 sq         Albanian                       Shqip
+
 am         Amharic                        አማርኛ
+
 ar         Arabic                         العربية
+
 hy         Armenian                       Հայերեն
+
 as         Assamese                       অসমীয়াay         Aymara                         Aymar aru
+
 az         Azerbaijani                    Azərbaycanca
+
 bm         Bambara                        Bamanankan
+
 ba         Bashkir                        Башҡортса
+
 eu         Basque                         Euskara
+
 be         Belarusian                     беларуская
+
 bn         Bengali                        বাং
+
 bho        Bhojpuri                       भोजपुरीbs         Bosnian                        Bosanski
+
 bg         Bulgarian                      български
+
 yue        Cantonese                      粵語ca         Catalan                        Català
+
 ceb        Cebuano                        Cebuano
+
 ny         Chichewa                       Nyanja
+
 lzh        Chinese (Literary)             文言zh-CN      Chinese (Simplified)           简体中文zh-TW      Chinese (Traditional)          繁體中文cv         Chuvash                        Чӑвашла
+
 co         Corsican                       Corsu
+
 hr         Croatian                       Hrvatski
+
 cs         Czech                          Čeština
+
 da         Danish                         Dansk
+
 prs        Dari                           دری
+
 dv         Dhivehi                        ދިވެހި
+
 doi        Dogri                          डोगरीnl         Dutch                          Nederlands
+
 mhr        Eastern Mari                   Олык марий
+
 en         English                        English
+
 eo         Esperanto                      Esperanto
+
 et         Estonian                       Eesti
+
 ee         Ewe                            Eʋegbe
+
 fo         Faroese                        Føroyskt
+
 fj         Fijian                         Vosa Vakaviti
+
 tl         Filipino                       Filipino
+
 fi         Finnish                        Suomi
+
 fr         French                         Français
+
 fr-CA      French (Canadian)              Français canadien
+
 fy         Frisian                        Frysk
+
 gl         Galician                       Galego
+
 ka         Georgian                       ქართული
+
 de         German                         Deutsch
+
 el         Greek                          Ελληνικά
+
 gn         Guarani                        Avañe'ẽ
+
 gu         Gujarati                       ગુજરાતીht         Haitian Creole                 Kreyòl Ayisyen
+
 ha         Hausa                          Hausa
+
 haw        Hawaiian                       ʻŌlelo Hawaiʻi
+
 he         Hebrew                         עִבְרִית
+
 mrj        Hill Mari                      Кырык мары
+
 hi         Hindi                          हिन्दीhmn        Hmong                          Hmoob
+
 hu         Hungarian                      Magyar
+
 is         Icelandic                      Íslenska
+
 ig         Igbo                           Igbo
+
 ilo        Ilocano                        Ilokano
+
 id         Indonesian                     Bahasa Indonesia
+
 ikt        Inuinnaqtun                    Inuinnaqtun
+
 iu         Inuktitut                      ᐃᓄᒃᑎᑐᑦ
+
 iu-Latn    Inuktitut (Latin)              Inuktitut
+
 ga         Irish                          Gaeilge
+
 it         Italian                        Italiano
+
 ja         Japanese                       日本語jv         Javanese                       Basa Jawa
+
 kn         Kannada                        ಕನ್ನಡ
+
 kk         Kazakh                         Қазақ тілі
+
 km         Khmer                          ភាសាខ្មែរ
+
 rw         Kinyarwanda                    Ikinyarwanda
+
 tlh-Latn   Klingon                        tlhIngan Hol
+
 gom        Konkani                        कोंकणीko         Korean                         한국어kri        Krio                           Krio
+
 ckb        Kurdish (Central)              سۆرانی
+
 ku         Kurdish (Northern)             Kurmancî
+
 ky         Kyrgyz                         Кыргызча
+
 lo         Lao                            ລາວ
+
 la         Latin                          Latina
+
 lv         Latvian                        Latviešu
+
 ln         Lingala                        Lingála
+
 lt         Lithuanian                     Lietuvių
+
 lg         Luganda                        Luganda
+
 lb         Luxembourgish                  Lëtzebuergesch
+
 mk         Macedonian                     Македонски
+
 mai        Maithili                       मैथिलीmg         Malagasy                       Malagasy
+
 ms         Malay                          Bahasa Melayu
+
 ml         Malayalam                      മലയാളംmt         Maltese                        Malti
+
 mi         Maori                          Māori
+
 mr         Marathi                        मराठीmni-Mtei   Meiteilon                      ꯃꯤꯇꯩꯂꯣꯟ
+
 lus        Mizo                           Mizo ṭawng
+
 mn         Mongolian                      Монгол
+
 mn-Mong    Mongolian (Traditional)        ᠮᠣᠩᠭᠣᠯ
+
 my         Myanmar                        မြန်မာစာne         Nepali                         नेपालीno         Norwegian                      Norsk
+
 or         Odia                           ଓଡ଼ିଆ
+
 om         Oromo                          Afaan Oromoo
+
 pap        Papiamento                     Papiamentu
+
 ps         Pashto                         پښتو
+
 fa         Persian                        فارسی
+
 pl         Polish                         Polski
+
 pt-BR      Portuguese (Brazilian)         Português Brasileiro
+
 pt-PT      Portuguese (European)          Português Europeu
+
 pa         Punjabi                        ਪੰਜਾਬੀqu         Quechua                        Runasimi
+
 otq        Querétaro Otomi                Hñąñho
+
 ro         Romanian                       Română
+
 ru         Russian                        Русский
+
 sm         Samoan                         Gagana Sāmoa
+
 sa         Sanskrit                       संस्कृतम्
+
 gd         Scots Gaelic                   Gàidhlig
+
 nso        Sepedi                         Sepedi
+
 sr-Cyrl    Serbian (Cyrillic)             Српски
+
 sr-Latn    Serbian (Latin)                Srpski
+
 st         Sesotho                        Sesotho
+
 sn         Shona                          chiShona
+
 sd         Sindhi                         سنڌي
+
 si         Sinhala                        සිංල
+
 sk         Slovak                         Slovenčina
+
 sl         Slovenian                      Slovenščina
+
 so         Somali                         Soomaali
+
 es         Spanish                        Español
+
 su         Sundanese                      Basa Sunda
+
 sw         Swahili                        Kiswahili
+
 sv         Swedish                        Svenska
+
 ty         Tahitian                       Reo Tahiti
+
 tg         Tajik                          Тоҷикӣ
+
 ta         Tamil                          தமிழ்
+
 tt         Tatar                          татарча
+
 te         Telugu                         తెలుగుth         Thai                           ไทย
+
 bo         Tibetan                        བོད་ཡིག
+
 ti         Tigrinya                       ትግርኛ
+
 to         Tongan                         Lea faka-Tonga
+
 ts         Tsonga                         Xitsonga
+
 tr         Turkish                        Türkçe
+
 tk         Turkmen                        Türkmen
+
 tw         Twi                            Twi
+
 udm        Udmurt                         Удмурт
+
 uk         Ukrainian                      Українська
+
 hsb        Upper Sorbian                  Hornjoserbšćina
+
 ur         Urdu                           اُردُو
+
 ug         Uyghur                         ئۇيغۇر تىلى
+
 uz         Uzbek                          Oʻzbek tili
+
 vi         Vietnamese                     Tiếng Việt
+
 cy         Welsh                          Cymraeg
+
 xh         Xhosa                          isiXhosa
+
 sah        Yakut                          Sakha
+
 yi         Yiddish                        ייִדיש
+
 yo         Yoruba                         Yorùbá
+
 yua        Yucatec Maya                   Màaya T'àan
+
 zu         Zulu                           isiZulu
+
 
 
