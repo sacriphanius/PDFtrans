@@ -98,285 +98,285 @@ If you would like to contribute to this project, please open a new issue or send
 
 ## LANGUAGES CODES FOR "MULTILANG" VERSION
 
-af         Afrikaans                      Afrikaans
+af         -Afrikaans                      Afrikaans
 
-sq         Albanian                       Shqip
+sq         -Albanian                       Shqip
 
-am         Amharic                        አማርኛ
+am         -Amharic                        አማርኛ
 
-ar         Arabic                         العربية
+ar         -Arabic                         العربية
 
-hy         Armenian                       Հայերեն
+hy         -Armenian                       Հայերեն
 
-as         Assamese                       অসমীয়াay         Aymara                         Aymar aru
+as         -Assamese                       অসমীয়াay         Aymara                         Aymar aru
 
-az         Azerbaijani                    Azərbaycanca
+az         -Azerbaijani                    Azərbaycanca
 
-bm         Bambara                        Bamanankan
+bm         -Bambara                        Bamanankan
 
-ba         Bashkir                        Башҡортса
+ba         -Bashkir                        Башҡортса
 
-eu         Basque                         Euskara
+eu         -Basque                         Euskara
 
-be         Belarusian                     беларуская
+be         -Belarusian                     беларуская
 
-bn         Bengali                        বাং
+bn         -Bengali                        বাং
 
-bho        Bhojpuri                       भोजपुरीbs         Bosnian                        Bosanski
+bho        -Bhojpuri                       भोजपुरीbs         Bosnian                        Bosanski
 
-bg         Bulgarian                      български
+bg         -Bulgarian                      български
 
-yue        Cantonese                      粵語ca         Catalan                        Català
+yue        -Cantonese                      粵語ca         Catalan                        Català
 
-ceb        Cebuano                        Cebuano
+ceb        -Cebuano                        Cebuano
 
-ny         Chichewa                       Nyanja
+ny         -Chichewa                       Nyanja
 
-lzh        Chinese (Literary)             文言zh-CN      Chinese (Simplified)           简体中文zh-TW      Chinese (Traditional)          繁體中文cv         Chuvash                        Чӑвашла
+lzh        -Chinese (Literary)             文言zh-CN      Chinese (Simplified)           简体中文zh-TW      Chinese (Traditional)          繁體中文cv         Chuvash                        Чӑвашла
 
-co         Corsican                       Corsu
+co         -Corsican                       Corsu
 
-hr         Croatian                       Hrvatski
+hr         -Croatian                       Hrvatski
 
-cs         Czech                          Čeština
+cs         -Czech                          Čeština
 
-da         Danish                         Dansk
+da         -Danish                         Dansk
 
-prs        Dari                           دری
+prs        -Dari                           دری
 
-dv         Dhivehi                        ދިވެހި
+dv         -Dhivehi                        ދިވެހި
 
-doi        Dogri                          डोगरीnl         Dutch                          Nederlands
+doi        -Dogri                          डोगरीnl         Dutch                          Nederlands
 
-mhr        Eastern Mari                   Олык марий
+mhr        -Eastern Mari                   Олык марий
 
-en         English                        English
+en         -English                        English
 
-eo         Esperanto                      Esperanto
+eo         -Esperanto                      Esperanto
 
-et         Estonian                       Eesti
+et         -Estonian                       Eesti
 
-ee         Ewe                            Eʋegbe
+ee         -Ewe                            Eʋegbe
 
-fo         Faroese                        Føroyskt
+fo         -Faroese                        Føroyskt
 
-fj         Fijian                         Vosa Vakaviti
+fj         -Fijian                         Vosa Vakaviti
 
-tl         Filipino                       Filipino
+tl         -Filipino                       Filipino
 
-fi         Finnish                        Suomi
+fi         -Finnish                        Suomi
 
-fr         French                         Français
+fr         -French                         Français
 
-fr-CA      French (Canadian)              Français canadien
+fr-CA      -French (Canadian)              Français canadien
 
-fy         Frisian                        Frysk
+fy         -Frisian                        Frysk
 
-gl         Galician                       Galego
+gl         -Galician                       Galego
 
-ka         Georgian                       ქართული
+ka         -Georgian                       ქართული
 
-de         German                         Deutsch
+de         -German                         Deutsch
 
-el         Greek                          Ελληνικά
+el         -Greek                          Ελληνικά
 
-gn         Guarani                        Avañe'ẽ
+gn         -Guarani                        Avañe'ẽ
 
-gu         Gujarati                       ગુજરાતીht         Haitian Creole                 Kreyòl Ayisyen
+gu         -Gujarati                       ગુજરાતીht         Haitian Creole                 Kreyòl Ayisyen
 
-ha         Hausa                          Hausa
+ha         -Hausa                          Hausa
 
-haw        Hawaiian                       ʻŌlelo Hawaiʻi
+haw        -Hawaiian                       ʻŌlelo Hawaiʻi
 
-he         Hebrew                         עִבְרִית
+he         -Hebrew                         עִבְרִית
 
-mrj        Hill Mari                      Кырык мары
+mrj        -Hill Mari                      Кырык мары
 
-hi         Hindi                          हिन्दीhmn        Hmong                          Hmoob
+hi         -Hindi                          हिन्दीhmn        Hmong                          Hmoob
 
-hu         Hungarian                      Magyar
+hu         -Hungarian                      Magyar
 
-is         Icelandic                      Íslenska
+is         -Icelandic                      Íslenska
 
-ig         Igbo                           Igbo
+ig         -Igbo                           Igbo
 
-ilo        Ilocano                        Ilokano
+ilo        -Ilocano                        Ilokano
 
-id         Indonesian                     Bahasa Indonesia
+id         -Indonesian                     Bahasa Indonesia
 
-ikt        Inuinnaqtun                    Inuinnaqtun
+ikt        -Inuinnaqtun                    Inuinnaqtun
 
-iu         Inuktitut                      ᐃᓄᒃᑎᑐᑦ
+iu         -Inuktitut                      ᐃᓄᒃᑎᑐᑦ
 
-iu-Latn    Inuktitut (Latin)              Inuktitut
+iu-Latn    -Inuktitut (Latin)              Inuktitut
 
-ga         Irish                          Gaeilge
+ga         -Irish                          Gaeilge
 
-it         Italian                        Italiano
+it         -Italian                        Italiano
 
-ja         Japanese                       日本語jv         Javanese                       Basa Jawa
+ja         -Japanese                       日本語jv         Javanese                       Basa Jawa
 
-kn         Kannada                        ಕನ್ನಡ
+kn         -Kannada                        ಕನ್ನಡ
 
-kk         Kazakh                         Қазақ тілі
+kk         -Kazakh                         Қазақ тілі
 
-km         Khmer                          ភាសាខ្មែរ
+km         -Khmer                          ភាសាខ្មែរ
 
-rw         Kinyarwanda                    Ikinyarwanda
+rw         -Kinyarwanda                    Ikinyarwanda
 
-tlh-Latn   Klingon                        tlhIngan Hol
+tlh-Latn   -Klingon                        tlhIngan Hol
 
-gom        Konkani                        कोंकणीko         Korean                         한국어kri        Krio                           Krio
+gom        -Konkani                        कोंकणीko         Korean                         한국어kri        Krio                           Krio
 
-ckb        Kurdish (Central)              سۆرانی
+ckb        -Kurdish (Central)              سۆرانی
 
-ku         Kurdish (Northern)             Kurmancî
+ku         -Kurdish (Northern)             Kurmancî
 
-ky         Kyrgyz                         Кыргызча
+ky         -Kyrgyz                         Кыргызча
 
-lo         Lao                            ລາວ
+lo         -Lao                            ລາວ
 
-la         Latin                          Latina
+la         -Latin                          Latina
 
-lv         Latvian                        Latviešu
+lv         -Latvian                        Latviešu
 
-ln         Lingala                        Lingála
+ln         -Lingala                        Lingála
 
-lt         Lithuanian                     Lietuvių
+lt         -Lithuanian                     Lietuvių
 
-lg         Luganda                        Luganda
+lg         -Luganda                        Luganda
 
-lb         Luxembourgish                  Lëtzebuergesch
+lb         -Luxembourgish                  Lëtzebuergesch
 
-mk         Macedonian                     Македонски
+mk         -Macedonian                     Македонски
 
-mai        Maithili                       मैथिलीmg         Malagasy                       Malagasy
+mai        -Maithili                       मैथिलीmg         Malagasy                       Malagasy
 
-ms         Malay                          Bahasa Melayu
+ms         -Malay                          Bahasa Melayu
 
-ml         Malayalam                      മലയാളംmt         Maltese                        Malti
+ml         -Malayalam                      മലയാളംmt         Maltese                        Malti
 
-mi         Maori                          Māori
+mi         -Maori                          Māori
 
-mr         Marathi                        मराठीmni-Mtei   Meiteilon                      ꯃꯤꯇꯩꯂꯣꯟ
+mr         -Marathi                        मराठीmni-Mtei   Meiteilon                      ꯃꯤꯇꯩꯂꯣꯟ
 
-lus        Mizo                           Mizo ṭawng
+lus        -Mizo                           Mizo ṭawng
 
-mn         Mongolian                      Монгол
+mn         -Mongolian                      Монгол
 
-mn-Mong    Mongolian (Traditional)        ᠮᠣᠩᠭᠣᠯ
+mn-Mong    -Mongolian (Traditional)        ᠮᠣᠩᠭᠣᠯ
 
-my         Myanmar                        မြန်မာစာne         Nepali                         नेपालीno         Norwegian                      Norsk
+my         -Myanmar                        မြန်မာစာne         Nepali                         नेपालीno         Norwegian                      Norsk
 
-or         Odia                           ଓଡ଼ିଆ
+or         -Odia                           ଓଡ଼ିଆ
 
-om         Oromo                          Afaan Oromoo
+om         -Oromo                          Afaan Oromoo
 
-pap        Papiamento                     Papiamentu
+pap        -Papiamento                     Papiamentu
 
-ps         Pashto                         پښتو
+ps         -Pashto                         پښتو
 
-fa         Persian                        فارسی
+fa         -Persian                        فارسی
 
-pl         Polish                         Polski
+pl         -Polish                         Polski
 
-pt-BR      Portuguese (Brazilian)         Português Brasileiro
+pt-BR      -Portuguese (Brazilian)         Português Brasileiro
 
-pt-PT      Portuguese (European)          Português Europeu
+pt-PT      -Portuguese (European)          Português Europeu
 
-pa         Punjabi                        ਪੰਜਾਬੀqu         Quechua                        Runasimi
+pa         -Punjabi                        ਪੰਜਾਬੀqu         Quechua                        Runasimi
 
-otq        Querétaro Otomi                Hñąñho
+otq        -Querétaro Otomi                Hñąñho
 
-ro         Romanian                       Română
+ro         -Romanian                       Română
 
-ru         Russian                        Русский
+ru         -Russian                        Русский
 
-sm         Samoan                         Gagana Sāmoa
+sm         -Samoan                         Gagana Sāmoa
 
-sa         Sanskrit                       संस्कृतम्
+sa         -Sanskrit                       संस्कृतम्
 
-gd         Scots Gaelic                   Gàidhlig
+gd         -Scots Gaelic                   Gàidhlig
 
-nso        Sepedi                         Sepedi
+nso        -Sepedi                         Sepedi
 
-sr-Cyrl    Serbian (Cyrillic)             Српски
+sr-Cyrl    -Serbian (Cyrillic)             Српски
 
-sr-Latn    Serbian (Latin)                Srpski
+sr-Latn    -Serbian (Latin)                Srpski
 
-st         Sesotho                        Sesotho
+st         -Sesotho                        Sesotho
 
-sn         Shona                          chiShona
+sn         -Shona                          chiShona
 
-sd         Sindhi                         سنڌي
+sd         -Sindhi                         سنڌي
 
-si         Sinhala                        සිංල
+si         -Sinhala                        සිංල
 
-sk         Slovak                         Slovenčina
+sk         -Slovak                         Slovenčina
 
-sl         Slovenian                      Slovenščina
+sl         -Slovenian                      Slovenščina
 
-so         Somali                         Soomaali
+so         -Somali                         Soomaali
 
-es         Spanish                        Español
+es         -Spanish                        Español
 
-su         Sundanese                      Basa Sunda
+su         -Sundanese                      Basa Sunda
 
-sw         Swahili                        Kiswahili
+sw         -Swahili                        Kiswahili
 
-sv         Swedish                        Svenska
+sv         -Swedish                        Svenska
 
-ty         Tahitian                       Reo Tahiti
+ty         -Tahitian                       Reo Tahiti
 
-tg         Tajik                          Тоҷикӣ
+tg         -Tajik                          Тоҷикӣ
 
-ta         Tamil                          தமிழ்
+ta         -Tamil                          தமிழ்
 
-tt         Tatar                          татарча
+tt         -Tatar                          татарча
 
-te         Telugu                         తెలుగుth         Thai                           ไทย
+te         -Telugu                         తెలుగుth         Thai                           ไทย
 
-bo         Tibetan                        བོད་ཡིག
+bo         -Tibetan                        བོད་ཡིག
 
-ti         Tigrinya                       ትግርኛ
+ti         -Tigrinya                       ትግርኛ
 
-to         Tongan                         Lea faka-Tonga
+to         -Tongan                         Lea faka-Tonga
 
-ts         Tsonga                         Xitsonga
+ts         -Tsonga                         Xitsonga
 
-tr         Turkish                        Türkçe
+tr         -Turkish                        Türkçe
 
-tk         Turkmen                        Türkmen
+tk         -Turkmen                        Türkmen
 
-tw         Twi                            Twi
+tw         -Twi                            Twi
 
-udm        Udmurt                         Удмурт
+udm        -Udmurt                         Удмурт
 
-uk         Ukrainian                      Українська
+uk         -Ukrainian                      Українська
 
-hsb        Upper Sorbian                  Hornjoserbšćina
+hsb        -Upper Sorbian                  Hornjoserbšćina
 
-ur         Urdu                           اُردُو
+ur         -Urdu                           اُردُو
 
-ug         Uyghur                         ئۇيغۇر تىلى
+ug         -Uyghur                         ئۇيغۇر تىلى
 
-uz         Uzbek                          Oʻzbek tili
+uz         -Uzbek                          Oʻzbek tili
 
-vi         Vietnamese                     Tiếng Việt
+vi         -Vietnamese                     Tiếng Việt
 
-cy         Welsh                          Cymraeg
+cy         -Welsh                          Cymraeg
 
-xh         Xhosa                          isiXhosa
+xh         -Xhosa                          isiXhosa
 
-sah        Yakut                          Sakha
+sah        -Yakut                          Sakha
 
-yi         Yiddish                        ייִדיש
+yi         -Yiddish                        ייִדיש
 
-yo         Yoruba                         Yorùbá
+yo         -Yoruba                         Yorùbá
 
-yua        Yucatec Maya                   Màaya T'àan
+yua        -Yucatec Maya                   Màaya T'àan
 
-zu         Zulu                           isiZulu
+zu         -Zulu                           isiZulu
 
 
 
