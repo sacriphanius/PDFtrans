@@ -44,6 +44,3 @@ python translator.py
 
 Bu projeye katkıda bulunmak isterseniz, lütfen yeni bir konu açın veya bir istek gönderin.
 
-```
-
-Bu README dosyası, projenin amacını, kurulumunu, kullanımını, gereksinimlerini ve katkıda bulunma yöntemlerini açıklar. İhtiyacınıza göre bu README dosyasını güncelleyebilir veya değiştirebilirsiniz.
