@@ -3,11 +3,16 @@ import PyPDF2
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
 import io
+import os
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
 # DejaVuSans fontunu kaydet
-pdfmetrics.registerFont(TTFont('DejaVuSans', '/home/sacriphanius/opt/ownscripts/pdftrans/DejaVuSans.ttf')) # Fontun yolunu güncelle
+if os.name == 'nt':
+    pdfmetrics.registerFont(TTFont('DejaVuSans', str(os.getcwd()) + '\\DejaVuSans.ttf')) # Windows için
+else:
+    pdfmetrics.registerFont(TTFont('DejaVuSans', str(os.getcwd()) + '/DejaVuSans.ttf')) # Linux için
+    
 
 def translate_text(text, dest_lang='tr'):
     translation = subprocess.run(['trans', '-b', f':{dest_lang}', text], stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
